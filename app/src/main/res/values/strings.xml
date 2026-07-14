@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">חוסם חכם</string>
+    <string name="device_admin_description">חוסם אפליקציות לפי שעות ומגן מפני מחיקה</string>
+    <string name="accessibility_description">שירות נגישות המשמש לזיהוי וחסימת אפליקציות שהוגדרו</string>
+</resources>
